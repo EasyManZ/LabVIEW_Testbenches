@@ -11,4 +11,4 @@ This version offers the following features for RS232 protocol:
 - Parity
 - Stop button to exit while loop of sending packets
 -----------------------------------------------------------
-
+The new feture is receving packets from RS232.
